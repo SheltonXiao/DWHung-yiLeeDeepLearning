@@ -1,8 +1,8 @@
 # DWHung-yiLeeDeepLearning
-  author: 桐
+  author: 桐       
   感谢资料提供：Sapphirehx、BH
   
-# 课程实践资料整理
+## 课程实践资料整理
  我把涉及到的可以用于实践的资料结合课程进度整理如下：
  1.  Task02：回归
      1. 使用numpy实现一个回归问题（跟着教程自己实现一遍）
@@ -22,7 +22,7 @@
 5. Task06：卷积神经网络
     1. 完成李宏毅机器学习2021的作业task3：图像分类，[数据集](https://www.kaggle.com/zhaopang/ml2021springhw3)
 
-# 参考阅读
+## 参考阅读
 1. [李宏毅机器学习笔记(LeeML-Notes)](https://datawhalechina.github.io/leeml-notes/#/)
 2. [李宏毅机器学习课程视频](https://www.bilibili.com/video/BV1Ht411g7Ef?p=1)
 3. [李宏毅机器学习2021](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)
